@@ -3,6 +3,7 @@
     "description": "Laravel Provider for Prometheus",
     "type": "library",
     "require": {
+        "illuminate/support": "^5.5",
         "jimdo/prometheus_client_php": "dev-master#01c89375e484a55683c65fc2056cfd0869461748"
     },
     "authors": [
