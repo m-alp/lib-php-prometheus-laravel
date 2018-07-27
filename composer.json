@@ -1,0 +1,14 @@
+{
+    "name": "m-alp/lib-php-prometheus-laravel",
+    "description": "Laravel Provider for Prometheus",
+    "type": "library",
+    "require": {
+        "jimdo/prometheus_client_php": "dev-master#01c89375e484a55683c65fc2056cfd0869461748"
+    },
+    "authors": [
+        {
+            "name": "Miguel Alpendre",
+            "email": "miguel.alpendre@olx.com"
+        }
+    ]
+}
